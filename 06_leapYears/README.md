@@ -14,3 +14,7 @@ leapYears(1985) // is not a leap year: returns false
 
 ## Hints
 - use an `if` statement and `&&` to make sure all the conditions are met properly
+
+If a year is div by 4 and not 100 it is a leap year
+If a year is div by 100 and 400 it is a leap year
+Else it is not a leap year
